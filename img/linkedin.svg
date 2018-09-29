@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="25px" viewBox="0 0 26 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>linkedin</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="jenevieve-chang-home-06" transform="translate(-1213.000000, -753.000000)" fill="#FFEEE4">
+            <g id="splash" transform="translate(0.000000, 100.000000)">
+                <g id="social" transform="translate(1024.000000, 651.000000)">
+                    <g id="linkedin" transform="translate(189.000000, 2.000000)">
+                        <path d="M25.5,24.2492108 L25.5,15.0064329 C25.5,10.0543811 22.8329312,7.75 19.2773703,7.75 C16.408082,7.75 15.122316,9.3149273 14.4057901,10.412665 L14.4057901,8.12880237 L9,8.12880237 C9.07165259,9.64164435 9,24.2492108 9,24.2492108 L14.4057901,24.2492108 L14.4057901,15.2463411 C14.4057901,14.7657356 14.4408203,14.2843409 14.5841255,13.9402621 C14.974234,12.9774727 15.8635223,11.980749 17.3562847,11.980749 C19.3131966,11.980749 20.095006,13.4588674 20.095006,15.6251435 L20.095006,24.25 L25.5,24.25 L25.5,24.2492108 Z" id="Path"></path>
+                        <path d="M2.98193244,6.25 C4.84131972,6.25 6,4.91553336 6,3.24872503 C5.96543598,1.54621759 4.84131972,0.25 3.01728201,0.25 C1.1932443,0.25 0,1.54536762 0,3.24872503 C0,4.91553336 1.15789474,6.25 2.94815397,6.25 L2.98193244,6.25 Z" id="Path"></path>
+                        <polygon id="Path" points="6 24.25 6 7.75 0.75 7.75 0.75 24.25"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
